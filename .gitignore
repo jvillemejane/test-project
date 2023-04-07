@@ -1,0 +1,18 @@
+# Compiled source #
+###################
+*.a
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.o.d
+*.py[ocd]
+*.so
+
+# Python files #
+################
+build
+build-install
+dist
+doc/build
