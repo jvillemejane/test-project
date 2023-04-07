@@ -12,7 +12,6 @@ import my_module as mM
 
 
 
-
 if __name__ == '__main__':
     print("Test Project")
     k = mM.my_first_function(1, 2)
